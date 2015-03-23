@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>invert.png</file>
+        <file>blackwhite.png</file>
+    </qresource>
+</RCC>
